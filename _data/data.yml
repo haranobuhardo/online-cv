@@ -97,25 +97,21 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Campus delegation in Malaysia Chem-E-Car Competition
+        link: #"#hook"
+        tagline: "Mar 2018"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: 1st winner of I-CARE BKKMTKI
+        link: #"#"
+        tagline: "Feb 2018"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Best presentation in Paragon Scholarship Camp Class
+        link: #"#"
+        tagline: "Feb 2018"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Best poster and presentation in PIMNAS XXX
+        link: #"#"
+        tagline: "Aug 2017"
 
 publications:
     title: Certifications
