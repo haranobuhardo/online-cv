@@ -3,119 +3,93 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Hardo Triwahyu
+    tagline: Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
+    email: hardotriwahyu@gmail.com
+    phone: (+62) 896 940 0849 6
+    website: haranobuhardo.github.io #do not add http://
+    linkedin: haranobuhardo
+    xing:
+    github: haranobuhardo
+     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: #'@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Bahasa Indonesia
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: English
+        level: Fluent
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: Bahasa Jawa (Ngoko Lugu)
+        level: Fluent
+
+      - idiom: Bahasa Melayu
+        level: Fluent
 
     interests:
-      - item: Climbing
+      - item: Programming
         link:
 
-      - item: Snowboarding
+      - item: Graphic Design
         link:
 
-      - item: Cooking
+      - item: Information Technology
         link:
 
 career-profile:
-    title: Career Profile
+    title: Summary
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      A multipotentialite engineer with a lot of experience in organization, engineering, programming, and graphic design projects. Experienced as a full-time employee and a freelancer. Proven track record to work under-pressure, solving problems analytically and logically, and also work as a team. Specialize in leading and developing a team, problem solving, and presenting complex idea in a clear, concise, and professional way.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Bachelor in Chemical Engineering (GPA 3.92)
+      university: University of Brawijaya, Malang, East Java, Indonesia
+      time: Aug 2015 - Jul 2019
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Achievements:
+          - Selected as best graduate student of Universitas Brawijaya
+          - Awarded as the first grantee of Paragon Scholarship in Universitas Brawijaya
+          - Discovered efficiency of silica-based hydrophobic membrane in biodiesel purification process 
+
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Application Engineer
+      time: Feb 2020 - Present
+      company: PT. Weebz Mandiri, Bekasi, Indonesia
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+          - Programmed 5+ spreadsheet applications (with VBA) to calculate and analyse fluid and piping properties.
+          - Developed a comprehensive technical proposal for Natural Gas Custody Analysis, Continuous Emission Monitoring System (CEMS) and Steam Water Analysis System (SWAS).
+          - Conducted internal company training regarding Sample Handling System (SHS), Steam Water Analysis System (SWAS) and AMETEK, Genie Filter, Sentry products’ application.
+          - Interacted with principals (AMETEK, Genie Filter, Sentry) to address and solve customers’ issues.
+          - Designed sales pitch deck for AMETEK Process Instruments’ products champion.
+    - role: Graphic Designer Freelancer
+      time: Aug 2020 - Present
+      company: Upwork Inc. & Fiverr Inc.
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Designed 30 projects within the first two-months with 5-star ratings.
+          - Verified as Top-Rated badge in Upwork and Level-One Seller in Fiverr.
+          - Worked with customer mostly based on USA and Europe.
+          - Earned 500$ within first month of working.
     - role: UI Developer
       time: 2012 - 2014
       company: Amazon, London
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Modelled PERTAMINA RU-IV RFCC Sour Water Stripper (SWS) Unit with Aspen HYSYS.
+          - Evaluated the effect of reboiler flow rate, reflux flow rate and top column temperature in SWS Unit.
+          - Founded the best flow rate and temperature configuration for most efficient Sour Water Stripper (SWS) usage.
+          - Observed PERTAMINA RU-IV Plant.
+
 projects:
     title: Projects
     intro: >
@@ -144,48 +118,44 @@ projects:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    title: Certifications
+    intro:
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "TOEFL Test with score 560 of 670"
+        link:   #"#"
+        authors:
+        conference:
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Ms. Office Competency Test with Excellent score"
+        link: #"#"
+        authors: 
+        conference: 
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "o	Ms. Excel Advanced Excel Formulas and Data Analysis (Udemy)"
+        link: #"#"
+        authors: 
+        conference:
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Technical Expertise
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Ms. Excel (Pivot, Macro)
+        # level: 98%
+      - name: Ms. PowerPoint (Pitching)
+      - name: Office 365
+      - name: Visual Basic for Application 
+      - name: Python
+      - name: SQL
+      - name: JavaScript, HTML & CSS
+      - name: Adobe Photoshop
+      - name: Adobe Illustrator
+      - name: Aspen HYSYS
+      - name: AutoCAD
+      - name: IT Support
 
-      - name: Javascript & jQuery
-        level: 98%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Forked from <a href="https://github.com/sharu725/online-cv" target="_blank" rel="nofollow">Sharu725</a> |
+    Theme designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
