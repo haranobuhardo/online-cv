@@ -81,9 +81,9 @@ experiences:
           - Verified as Top-Rated badge in Upwork and Level-One Seller in Fiverr.
           - Worked with customer mostly based on USA and Europe.
           - Earned 500$ within first month of working.
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Student Internship
+      time: Jun 2018 - Jul 2018
+      company: PT. Pertamina RU-IV, Cilacap, Indonesia
       details: |
           - Modelled PERTAMINA RU-IV RFCC Sour Water Stripper (SWS) Unit with Aspen HYSYS.
           - Evaluated the effect of reboiler flow rate, reflux flow rate and top column temperature in SWS Unit.
@@ -91,11 +91,8 @@ experiences:
           - Observed PERTAMINA RU-IV Plant.
 
 projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    title: Honors and Achievements
+    intro:
     assignments:
       - title: Campus delegation in Malaysia Chem-E-Car Competition
         link:
@@ -128,6 +125,41 @@ publications:
         conference: 
 
       - title: Ms. Excel Advanced Excel Formulas and Data Analysis (Udemy)
+        link:
+        authors: 
+        conference:
+
+      - title: Technical Support Fundamentals (Google – Coursera.org)
+        link:
+        authors: 
+        conference:
+      
+      - title: Frontend Fundamentals (Pirple.com)
+        link:
+        authors: 
+        conference:
+      
+      - title: Responsive Web Design and Front End Libraries (freeCodeCamp.org)
+        link:
+        authors: 
+        conference:
+
+      - title: JavaScript Algorithms and Data Structures (freecodeCamp.org)
+        link:
+        authors: 
+        conference:
+
+      - title: Introduction and Intermediate SQL (DataCamp)
+        link:
+        authors: 
+        conference:
+
+      - title: Introduction and Intermediate Data Science in Python (DataCamp)
+        link:
+        authors: 
+        conference:
+
+      - title: Machine Learning and Data Science for Business (DataCamp)
         link:
         authors: 
         conference:
