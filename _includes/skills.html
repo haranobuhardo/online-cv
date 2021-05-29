@@ -13,9 +13,9 @@
   <div class="skillset">
 
     {% for skill in skills.toolset %}
-    <div class="item">
+    <div class="item" style="height: 100px; display: flex; flex-direction: column; flex-wrap: wrap;">
 
-      <h3 class="level-title" style="height: 100px; display: flex; flex-direction: column; flex-wrap: wrap;">{{ skill.name }}</h3>
+      <h3 class="level-title">{{ skill.name }}</h3>
 
       <!-- "columns: 2; -webkit-columns: 2; -moz-columns: 2;" -->
       <!-- <div class="level-bar">
