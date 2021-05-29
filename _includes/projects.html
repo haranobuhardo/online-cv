@@ -17,8 +17,7 @@
   {% endif %}
 
   {% for project in projects.assignments %}
-    <li>
-    <div class="item">
+    <li class="item">
       <span class="project-title">
         {% if project.link %}
         <a href="{{ project.link }}" target="_blank">{{ project.title }}</a>
@@ -30,8 +29,7 @@
       {% if project.tagline %}
       - <span class="project-tagline">{{ project.tagline }}</span>
       {% endif %}
-    </div><!--//item-->
-    </li>
+    </li><!--//item-->
   {% endfor %}
 
 </section><!--//section-->
