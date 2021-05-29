@@ -16,9 +16,9 @@
   </div><!--//intro-->
   {% endif %}
 
-  <ul style="list-style-position: outside; padding: 0;">
+  <ul>
   {% for project in projects.assignments %}
-    <li class="item">
+    <li class="item" style="display:list-item;">
       <span class="project-title">
         {% if project.link %}
         <a href="{{ project.link }}" target="_blank">{{ project.title }}</a>
