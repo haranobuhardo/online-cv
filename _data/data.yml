@@ -98,37 +98,37 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Campus delegation in Malaysia Chem-E-Car Competition
-        link: #"#hook"
+        link:
         tagline: "Mar 2018"
 
       - title: 1st winner of I-CARE BKKMTKI
-        link: #"#"
+        link:
         tagline: "Feb 2018"
 
       - title: Best presentation in Paragon Scholarship Camp Class
-        link: #"#"
+        link:
         tagline: "Feb 2018"
 
       - title: Best poster and presentation in PIMNAS XXX
-        link: #"#"
+        link:
         tagline: "Aug 2017"
 
 publications:
     title: Certifications
     intro:
     papers:
-      - title: "TOEFL Test with score 560 of 670"
-        link:   #"#"
+      - title: TOEFL Test with score 560 of 670
+        link:
         authors:
         conference:
 
-      - title: "Ms. Office Competency Test with Excellent score"
-        link: #"#"
+      - title: Ms. Office Competency Test with Excellent score
+        link:
         authors: 
         conference: 
 
-      - title: "o	Ms. Excel Advanced Excel Formulas and Data Analysis (Udemy)"
-        link: #"#"
+      - title: Ms. Excel Advanced Excel Formulas and Data Analysis (Udemy)
+        link:
         authors: 
         conference:
 
