@@ -16,10 +16,9 @@
   </div><!--//intro-->
   {% endif %}
 
-  <ul>
-  <!-- style="list-style-position: outside; padding: 0;" -->
+  <ul style="list-style-position: outside; padding: 0;">
   {% for project in projects.assignments %}
-    <li class="item" style="display: list-item; text-align: -webkit-match-parent;">
+    <li class="item">
       <span class="project-title">
         {% if project.link %}
         <a href="{{ project.link }}" target="_blank">{{ project.title }}</a>
