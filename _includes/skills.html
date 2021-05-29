@@ -10,13 +10,14 @@
     {{ skills.title }}
   </h2>
 
-  <div class="skillset" style="height: 50%; display: flex; flex-direction: column; flex-wrap: wrap;">
+  <div class="skillset" style="width: 100%; columns: 2; -webkit-columns: 2; -moz-columns: 2;">
 
     {% for skill in skills.toolset %}
     <div class="item">
 
       <h3 class="level-title">{{ skill.name }}</h3>
 
+      <!-- height: 50%; display: flex; flex-direction: column; flex-wrap: wrap; -->
       <!-- "columns: 2; -webkit-columns: 2; -moz-columns: 2;" -->
       <!-- <div class="level-bar">
         <div class="level-bar-inner" data-level="{{ skill.level }}">
